@@ -18,3 +18,4 @@ Google -> ORG
 Bangalore -> GPE
 
 ## 
+Built for educational purposes to understand pre-trained NER models using spaCy, not for real-world deployment.
